@@ -16,6 +16,6 @@ AI, coding, scripting, and web development are passions of mine. In my repositor
 
 ## 📬 Contact
 Feel free to reach out for collaborations or just a friendly chat:
-- **Email:** [mihnea@rad-limited.com](mailto:contact@mihnea-radulescu.com)
+- **Email:** [contact@mihnea-radulescu.com](mailto:contact@mihnea-radulescu.com)
 
 Thank you for visiting my profile! 🌟
