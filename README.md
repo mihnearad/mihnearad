@@ -20,6 +20,11 @@ AI, coding, scripting, and web development are passions of mine. In my repositor
 |--------|------------|-------|------------|-------|--------|-------|---------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="HTML/CSS Logo" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL Logo" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas Logo" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy Logo" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Logo" width="55" height="55"/> |
 
+## 🏅 Hack The Box Profile
+
+I've just started with some hack the box challenges, follow my journey here. 
+
+![Hack The Box Profile](https://www.hackthebox.com/badge/image/1115630)
 
 
 ## 📬 Contact
