@@ -1,16 +1,29 @@
-# Hello, I'm Mihnea / Andrew 👋
+# Hello, I'm Mihnea 👋
 
 I am an IT Manager and SAP Project Manager based in Belgium, specializing in strategic project management, IT infrastructure, and innovative software solutions. With a passion for technology and a commitment to operational excellence, I aim to drive growth and enhance efficiency in fast-paced environments.
 
 ## 🌐 Quick Links
 - **[LinkedIn](https://www.linkedin.com/in/mihnearadulescu)**
-- **[Personal Website](http://mihnearad.com)**
+- **[Personal Website](https://mihnearad.com)**
 
 ## 🛠 Skills
 - **Project Management:** Certified Professional SCRUM Master, Google Foundations of Project Management
-- **IT & Security:** Expertise in network architecture, system integration, and cybersecurity enhancements
-- **Software Proficiency:** Proficient in SAP Business One, Python, SQL, and AWS
+- **IT & Security:** Expertise in network architecture, system integration, cybersecurity enhancements, vulnerability scanning, Zero Trust Network Access (ZTNA)
+- **Virtualization & Platforms:** Experience with Proxmox, Hyper-V, and VMware environments
+- **Software Proficiency:** Proficient in SAP Business One, SAP HANA, Python, SQL, and AWS
 
+## 💻 Systems Management
+Experienced in systems administration across multiple platforms:
+
+| Linux | Windows | AWS | Proxmox | Hyper-V | Cloudflare | SAP HANA |
+|-------|---------|-----|---------|---------|------------|----------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux Logo" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2021.svg" alt="Windows Logo" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="55" height="55"/> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3QBmRo3T_oeB-QB-URaXPmn8jsRzBs4AA_A&s" alt="Proxmox Logo" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Hyper-V_Logo.png" alt="Hyper-V Logo" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Cloudflare_Logo.png" alt="Cloudflare Logo" width="55" height="55"/> | <img src="https://cdn.brightanalytics.eu/wp-content/uploads/SAP-HANA-logo.png" alt="SAP HANA Logo" width="55" height="55"/> |
+
+- **Linux Management:** Ubuntu, Debian, SUSE, Arch Linux  
+- **Windows Management:** Server and workstation environments  
+- **Cloud & Virtualization:** AWS services, Proxmox, Hyper-V, Cloudflare Zero Trust  
+- **Database Platforms:** SAP HANA and SAP Business One  
+- **Security:** Vulnerability scanning, Zero Trust strategies, Cloudflare ZTNA integrations  
 ## 🔧 Interests
 AI, coding, scripting, and web development are passions of mine. In my repositories, you'll find various projects ranging from simple scripts to portfolio websites and more complex undertakings. Follow me to stay updated and feel free to drop a message if you have any suggestions or questions.
 
